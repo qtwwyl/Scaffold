@@ -40,5 +40,8 @@
     webpack.dev.config.js          开发环境的 webpack 配置
 
 # 脚本
-* `npm start`启动本地开发服务
+* `npm start`启动本地开发服务, `http://localhost:8080/`
 * `npm run build` 打包生产环境下的文件放到 dist 文件夹下
+
+# 参考链接 
+> https://github.com/brickspert/blog/issues/1#uglify

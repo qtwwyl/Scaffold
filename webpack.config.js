@@ -84,7 +84,7 @@ const publicConfig = {
                 assetNameRegExp: /\.css$/g,
                 cssProcessorOptions: {
                   safe: true,
-                  autoprefixer: { disable: true }, // 避免移出浏览器前缀
+                  autoprefixer: { disable: true }, // 避免移除浏览器前缀
                   mergeLonghand: false,
                   discardComments: {
                     removeAll: true // 移除注释
